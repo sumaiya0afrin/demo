@@ -1,0 +1,59 @@
+/* external css*/
+i{
+    color: brown;
+    font-size: 25px;
+    border:3px dashed darkcyan ;
+    border-radius: 8px;
+    font-family: castellar;
+    text-align: right;
+
+    
+}
+p{
+    color: brown;
+    font-size: 35px;
+    font-family: freestyle script;
+    text-align: center;
+    
+    
+}
+address {
+    
+    color: brown;
+    font-size: 20px;   
+}
+body{
+    background-color: rgb(53, 238, 176);
+    
+}
+p2{
+    color:white;
+    font-size: 25px;
+}
+h2{
+    color: brown;
+    font-size: 25px;
+}
+table, th,td{
+    border: 3px solid white;
+    color:brown;
+    font-size: 35px;
+    font-family: freestyle script;
+}
+h1{
+    color: white; 
+    text-align:center; 
+    font-size: 40px; 
+    background-color: rgb(53, 238, 176); 
+    font-family: castellar;
+}
+label{
+    color: brown;
+    font-size: 35px;
+    font-family: freestyle script;
+}
+summary{
+    color: brown;
+    font-size: 35px;
+    font-family: freestyle script;
+}
